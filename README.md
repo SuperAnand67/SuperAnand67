@@ -5,7 +5,7 @@ Computer Science Engineering Student • Java Developer • Linux Enthusiast •
 </h3>
 
 <p align="center">
-I'm passionate about building practical software, exploring computer science fundamentals, and continuously improving as an engineer.
+Passionate about building practical software, exploring computer science fundamentals, and continuously improving as an engineer.
 </p>
 
 ---
@@ -15,11 +15,21 @@ I'm passionate about building practical software, exploring computer science fun
 - 🎓 B.E. Computer Science Engineering Student (Anna University)
 - ☕ Java-focused Software Developer
 - 🐧 Linux user for 3+ years
-- 🔒 Learning Cybersecurity (ISC2 CC Candidate)
+- 🔒 ISC2 CC Candidate
 - 🇯🇵 Learning Japanese (JLPT/NAT N5)
-- 🚀 Interested in Software Engineering, Backend Development & Systems Programming
-- 📚 Currently learning Spring Boot, Docker, and AWS
-- 💡 I enjoy building real-world projects that solve problems.
+- 🚀 Interested in Software Engineering, Backend Development, and Systems Programming
+- 💡 I enjoy solving real-world problems through software.
+
+---
+
+## 🚀 Current Focus
+
+- ☕ Building Java applications
+- 🌱 Learning Spring Boot
+- 🐳 Learning Docker
+- ☁️ Exploring AWS Cloud
+- 🔒 Studying Cybersecurity
+- 📚 Strengthening Data Structures & Algorithms
 
 ---
 
@@ -44,58 +54,43 @@ I'm passionate about building practical software, exploring computer science fun
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 📖 Japanese Learning Desktop Platform
 
-A modern offline-first desktop application built with JavaFX and SQLite.
+An offline-first desktop application built using JavaFX and SQLite for learning Japanese.
 
 **Highlights**
 
-- JavaFX
-- SQLite
-- Maven
+- JavaFX + SQLite
 - MVC Architecture
-- Cross-platform (Windows & Linux)
-- Native Installers
-- MIT Licensed
-- Open Source
+- Maven
+- Offline-first
+- Native Windows & Linux installers
+- Open Source (MIT License)
 
-🔗 Repository
-
-https://github.com/SuperAnand67/Japanese-Dictionary-JavaFX
+🔗 Repository:
+**https://github.com/SuperAnand67/Japanese-Dictionary-JavaFX**
 
 ---
 
 ### 💻 DSA Practice Repository
 
-A repository documenting my journey through Striver's A2Z DSA Sheet using Java.
+My journey through Striver's A2Z DSA Sheet using Java.
 
 Topics include:
 
 - Arrays
 - Linked Lists
+- Binary Search
 - Stacks
 - Queues
-- Binary Search
+- Trees
 - Recursion
 - Custom Data Structures
 
-🔗 Repository
-
-https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java
-
----
-
-## 📚 Currently Learning
-
-- Spring Boot
-- Docker
-- AWS Cloud
-- Computer Networks
-- Compiler Design
-- Cloud Computing
-- Cryptography & Cybersecurity
+🔗 Repository:
+**https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java**
 
 ---
 
@@ -110,44 +105,39 @@ https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 2026 Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperAnand67&show_icons=true&theme=github_dark)
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAnand67&layout=compact&theme=github_dark" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SuperAnand67&theme=github-dark"/>
-
-</p>
+- ✅ Solve 100+ LeetCode problems
+- ✅ Earn ISC2 Certified in Cybersecurity (CC)
+- ✅ Build Spring Boot REST APIs
+- ✅ Learn Docker
+- ✅ Learn AWS Fundamentals
+- ✅ Contribute to Open Source
+- ✅ Complete a production-ready backend project
 
 ---
 
-## 🎯 2026 Goals
+## 📌 Pinned Repositories
 
-- ✅ Complete 100+ LeetCode Problems
-- ✅ Earn ISC2 Certified in Cybersecurity (CC)
-- ✅ Learn Spring Boot
-- ✅ Learn Docker
-- ✅ Learn AWS Fundamentals
-- ✅ Build Backend Projects
-- ✅ Contribute to Open Source
+⭐ Japanese Learning Desktop Platform
+
+⭐ Striver A2Z DSA
+
+⭐ Future Spring Boot Project
+
+⭐ Future Cybersecurity Project
+
+*(Use GitHub's "Customize your pins" option to pin these repositories.)*
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/SuperAnand67
-- LinkedIn: *(Add your LinkedIn URL)*
-- LeetCode: *(Add your profile URL)*
-- HackerRank: *(Add your profile URL)*
-- Email: **palanig5544@gmail.com**
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💻 LeetCode: *(Add your LeetCode URL)*
+- 🏆 HackerRank: *(Add your HackerRank URL)*
+- 📧 Email: **palanig5544@gmail.com**
 
 ---
 
-> *"Always learning. Always building."* 🚀
+> **"Always learning. Always building."** 🚀
