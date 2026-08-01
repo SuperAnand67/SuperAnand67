@@ -5,7 +5,7 @@ Computer Science Engineering Student • Java Developer • Linux Enthusiast •
 </h3>
 
 <p align="center">
-Passionate about building practical software, exploring computer science fundamentals, and continuously improving as an engineer.
+I enjoy building practical software, learning how computers work under the hood, and continuously improving through hands-on projects.
 </p>
 
 ---
@@ -14,22 +14,23 @@ Passionate about building practical software, exploring computer science fundame
 
 - 🎓 B.E. Computer Science Engineering Student (Anna University)
 - ☕ Java-focused Software Developer
-- 🐧 Linux user for 3+ years
-- 🔒 ISC2 CC Candidate
+- 🐧 Daily Linux user for 3+ years
+- 🔒 ISC2 Certified in Cybersecurity (CC) Candidate
 - 🇯🇵 Learning Japanese (JLPT/NAT N5)
-- 🚀 Interested in Software Engineering, Backend Development, and Systems Programming
-- 💡 I enjoy solving real-world problems through software.
+- 🚀 Interested in Software Engineering, Backend Development, Linux, and Cybersecurity
+- 💡 I believe the best way to learn is by building real-world projects.
 
 ---
 
-## 🚀 Current Focus
+## 🌱 Currently Learning
 
-- ☕ Building Java applications
-- 🌱 Learning Spring Boot
-- 🐳 Learning Docker
-- ☁️ Exploring AWS Cloud
-- 🔒 Studying Cybersecurity
-- 📚 Strengthening Data Structures & Algorithms
+- Spring Boot
+- Docker
+- AWS Cloud
+- Computer Networks
+- Compiler Design
+- Cloud Computing
+- Cryptography & Cybersecurity
 
 ---
 
@@ -42,7 +43,7 @@ Passionate about building practical software, exploring computer science fundame
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
-### Technologies
+### Technologies & Tools
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
@@ -54,80 +55,65 @@ Passionate about building practical software, exploring computer science fundame
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 📖 Japanese Learning Desktop Platform
 
-An offline-first desktop application built using JavaFX and SQLite for learning Japanese.
+An offline-first desktop application built with **JavaFX**, **SQLite**, and **Maven** for learning Japanese efficiently.
 
 **Highlights**
 
-- JavaFX + SQLite
 - MVC Architecture
-- Maven
-- Offline-first
-- Native Windows & Linux installers
-- Open Source (MIT License)
+- Offline-first Design
+- Cross-platform (Windows & Linux)
+- Native Installers
+- MIT Licensed
+- Open Source
 
-🔗 Repository:
-**https://github.com/SuperAnand67/Japanese-Dictionary-JavaFX**
+🔗 **Repository:**  
+https://github.com/SuperAnand67/Japanese-Dictionary-JavaFX
 
 ---
 
 ### 💻 DSA Practice Repository
 
-My journey through Striver's A2Z DSA Sheet using Java.
+A repository documenting my journey through **Striver's A2Z DSA Sheet** using Java.
 
-Topics include:
+**Topics Covered**
 
 - Arrays
 - Linked Lists
 - Binary Search
-- Stacks
-- Queues
-- Trees
+- Stacks & Queues
 - Recursion
+- Trees
 - Custom Data Structures
 
-🔗 Repository:
-**https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java**
+🔗 **Repository:**  
+https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 1st Place — Technical Quiz (Inter-college Symposium)
-- 🤖 Prize Winner — Generative AI Competition
+- 🤖 3rd Place — Generative AI Competition
 - 🎤 Presented research on CNN-based Kanji OCR
 - 🥋 Karate Black Belt
-- 👨‍🏫 Taught and mentored 100+ Karate students
+- 👨‍🏫 Mentored 100+ Karate students
 - ⭐ HackerRank Java (5★)
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Solve 100+ LeetCode problems
+- ✅ Solve 100+ LeetCode Problems
 - ✅ Earn ISC2 Certified in Cybersecurity (CC)
-- ✅ Build Spring Boot REST APIs
+- ✅ Learn Spring Boot
 - ✅ Learn Docker
 - ✅ Learn AWS Fundamentals
+- ✅ Build Production-ready Backend Projects
 - ✅ Contribute to Open Source
-- ✅ Complete a production-ready backend project
-
----
-
-## 📌 Pinned Repositories
-
-⭐ Japanese Learning Desktop Platform
-
-⭐ Striver A2Z DSA
-
-⭐ Future Spring Boot Project
-
-⭐ Future Cybersecurity Project
-
-*(Use GitHub's "Customize your pins" option to pin these repositories.)*
 
 ---
 
@@ -140,4 +126,6 @@ Topics include:
 
 ---
 
-> **"Always learning. Always building."** 🚀
+<p align="center">
+<i>"Always learning. Always building."</i> 🚀
+</p>
