@@ -112,9 +112,9 @@ https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperAnand67&show_icons=true&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuperAnand67&show_icons=true&theme=github_dark" height="170"/>
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAnand67&layout=compact&theme=github_dark" height="170"/>
 
