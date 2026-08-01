@@ -119,9 +119,9 @@ https://github.com/SuperAnand67/Strivers-A2Z-DSA-Java
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 LeetCode: *(Add your LeetCode URL)*
-- 🏆 HackerRank: *(Add your HackerRank URL)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/super-anand-34320538a/*
+- 💻 LeetCode: *https://leetcode.com/u/SuperAnand/*
+- 🏆 HackerRank: *https://www.hackerrank.com/profile/tamilanand56ff*
 - 📧 Email: **palanig5544@gmail.com**
 
 ---
