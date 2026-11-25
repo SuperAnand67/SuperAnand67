@@ -82,7 +82,7 @@ An offline-first Japanese learning desktop application built using JavaFX and SQ
 
 ---
 
-### 🌐 [NetChat — TCP/UDP Chat Application](https://github.com/SuperAnand67/NetChat)
+### 🌐 [NetChat — TCP/UDP Chat Application](https://github.com/SuperAnand67/tcp-udp-chat-app)
 
 A computer networking mini-project exploring communication between applications using TCP and UDP sockets.
 
