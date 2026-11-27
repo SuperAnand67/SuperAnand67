@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-&#x20; <img src="[https://komarev.com/ghpvc/?username=SuperAnand67&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=SuperAnand67\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile views" />
+&#x20; <img src="[https://komarev.com/ghpvc/?username=SuperAnand67&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=SuperAnand67\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile views" >
 </p>
 
 ---
